@@ -1,4 +1,4 @@
-FROM hub.c.163.com/public/centos:7.2-tools
+FROM hub.c.163.com/public/centos
 MAINTAINER GGG
 # 安装jdk1.8.0
 RUN yum -y install java-1.8.0-openjdk*
